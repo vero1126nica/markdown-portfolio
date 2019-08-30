@@ -1,2 +1,2 @@
--[] chocolate
--[] banana
+- chocolate
+- banana
